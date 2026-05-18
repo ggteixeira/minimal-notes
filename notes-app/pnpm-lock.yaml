@@ -9,65 +9,65 @@ importers:
   .:
     dependencies:
       vue:
-        specifier: ^2.5.2
+        specifier: ^2.7.16
         version: 2.7.16
     devDependencies:
       autoprefixer:
-        specifier: ^7.1.2
+        specifier: ^7.2.6
         version: 7.2.6
       babel-core:
-        specifier: ^6.22.1
+        specifier: ^6.26.3
         version: 6.26.3
       babel-eslint:
-        specifier: ^8.2.1
+        specifier: ^8.2.6
         version: 8.2.6
       babel-helper-vue-jsx-merge-props:
         specifier: ^2.0.3
         version: 2.0.3
       babel-loader:
-        specifier: ^7.1.1
+        specifier: ^7.1.5
         version: 7.1.5(babel-core@6.26.3)(webpack@3.12.0)
       babel-plugin-istanbul:
-        specifier: ^4.1.1
+        specifier: ^4.1.6
         version: 4.1.6
       babel-plugin-syntax-jsx:
         specifier: ^6.18.0
         version: 6.18.0
       babel-plugin-transform-runtime:
-        specifier: ^6.22.0
+        specifier: ^6.23.0
         version: 6.23.0
       babel-plugin-transform-vue-jsx:
-        specifier: ^3.5.0
+        specifier: ^3.7.0
         version: 3.7.0(babel-helper-vue-jsx-merge-props@2.0.3)
       babel-preset-env:
-        specifier: ^1.3.2
+        specifier: ^1.7.0
         version: 1.7.0
       babel-preset-stage-2:
-        specifier: ^6.22.0
+        specifier: ^6.24.1
         version: 6.24.1
       babel-register:
-        specifier: ^6.22.0
+        specifier: ^6.26.0
         version: 6.26.0
       chai:
-        specifier: ^4.1.2
+        specifier: ^4.5.0
         version: 4.5.0
       chalk:
-        specifier: ^2.0.1
+        specifier: ^2.4.2
         version: 2.4.2
       chromedriver:
-        specifier: ^2.27.2
+        specifier: ^2.46.0
         version: 2.46.0
       copy-webpack-plugin:
-        specifier: ^4.0.1
+        specifier: ^4.6.0
         version: 4.6.0
       cross-env:
-        specifier: ^5.0.1
+        specifier: ^5.2.1
         version: 5.2.1
       cross-spawn:
-        specifier: ^5.0.1
+        specifier: ^5.1.0
         version: 5.1.0
       css-loader:
-        specifier: ^0.28.0
+        specifier: ^0.28.11
         version: 0.28.11
       eslint:
         specifier: ^9.26.0
@@ -79,139 +79,139 @@ importers:
         specifier: ^3.0.0
         version: 3.0.0
       eslint-loader:
-        specifier: ^1.7.1
+        specifier: ^1.9.0
         version: 1.9.0(eslint@9.26.0)
       eslint-plugin-import:
-        specifier: ^2.7.0
+        specifier: ^2.32.0
         version: 2.32.0(eslint@9.26.0)
       eslint-plugin-node:
-        specifier: ^5.2.0
+        specifier: ^5.2.1
         version: 5.2.1(eslint@9.26.0)
       eslint-plugin-promise:
-        specifier: ^3.4.0
+        specifier: ^3.8.0
         version: 3.8.0
       eslint-plugin-standard:
-        specifier: ^3.0.1
+        specifier: ^3.1.0
         version: 3.1.0(eslint@9.26.0)
       eslint-plugin-vue:
-        specifier: ^4.0.0
+        specifier: ^4.7.1
         version: 4.7.1(eslint@9.26.0)
       extract-text-webpack-plugin:
-        specifier: ^3.0.0
+        specifier: ^3.0.2
         version: 3.0.2(webpack@3.12.0)
       file-loader:
-        specifier: ^1.1.4
+        specifier: ^1.1.11
         version: 1.1.11(webpack@3.12.0)
       friendly-errors-webpack-plugin:
-        specifier: ^1.6.1
+        specifier: ^1.7.0
         version: 1.7.0(webpack@3.12.0)
       html-webpack-plugin:
         specifier: ^2.30.1
         version: 2.30.1(webpack@3.12.0)
       inject-loader:
-        specifier: ^3.0.0
+        specifier: ^3.0.1
         version: 3.0.1(webpack@3.12.0)
       karma:
-        specifier: ^6.3.16
+        specifier: ^6.4.4
         version: 6.4.4
       karma-coverage:
-        specifier: ^1.1.1
+        specifier: ^1.1.2
         version: 1.1.2
       karma-mocha:
         specifier: ^1.3.0
         version: 1.3.0
       karma-phantomjs-launcher:
-        specifier: ^1.0.2
+        specifier: ^1.0.4
         version: 1.0.4(karma@6.4.4)
       karma-phantomjs-shim:
-        specifier: ^1.4.0
+        specifier: ^1.5.0
         version: 1.5.0
       karma-sinon-chai:
-        specifier: ^1.3.1
+        specifier: ^1.3.4
         version: 1.3.4(chai@4.5.0)(sinon-chai@2.14.0(chai@4.5.0)(sinon@4.5.0))(sinon@4.5.0)
       karma-sourcemap-loader:
-        specifier: ^0.3.7
+        specifier: ^0.3.8
         version: 0.3.8
       karma-spec-reporter:
         specifier: 0.0.31
         version: 0.0.31(karma@6.4.4)
       karma-webpack:
-        specifier: ^2.0.2
+        specifier: ^2.0.13
         version: 2.0.13(webpack@3.12.0)
       mocha:
-        specifier: ^3.2.0
+        specifier: ^3.5.3
         version: 3.5.3
       nightwatch:
-        specifier: ^0.9.12
+        specifier: ^0.9.21
         version: 0.9.21
       node-notifier:
-        specifier: ^8.0.1
+        specifier: ^8.0.2
         version: 8.0.2
       optimize-css-assets-webpack-plugin:
-        specifier: ^3.2.0
+        specifier: ^3.2.1
         version: 3.2.1
       ora:
-        specifier: ^1.2.0
+        specifier: ^1.4.0
         version: 1.4.0
       phantomjs-prebuilt:
-        specifier: ^2.1.14
+        specifier: ^2.1.16
         version: 2.1.16
       portfinder:
-        specifier: ^1.0.13
+        specifier: ^1.0.38
         version: 1.0.38(supports-color@6.1.0)
       postcss-import:
-        specifier: ^11.0.0
+        specifier: ^11.1.0
         version: 11.1.0
       postcss-loader:
-        specifier: ^2.0.8
+        specifier: ^2.1.6
         version: 2.1.6
       postcss-url:
-        specifier: ^7.2.1
+        specifier: ^7.3.2
         version: 7.3.2
       rimraf:
-        specifier: ^2.6.0
+        specifier: ^2.7.1
         version: 2.7.1
       selenium-server:
-        specifier: ^3.0.1
+        specifier: ^3.141.59
         version: 3.141.59
       semver:
-        specifier: ^5.3.0
+        specifier: ^5.7.2
         version: 5.7.2
       shelljs:
         specifier: ^0.8.5
         version: 0.8.5
       sinon:
-        specifier: ^4.0.0
+        specifier: ^4.5.0
         version: 4.5.0
       sinon-chai:
-        specifier: ^2.8.0
+        specifier: ^2.14.0
         version: 2.14.0(chai@4.5.0)(sinon@4.5.0)
       uglifyjs-webpack-plugin:
-        specifier: ^1.1.1
+        specifier: ^1.3.0
         version: 1.3.0(webpack@3.12.0)
       url-loader:
-        specifier: ^0.5.8
+        specifier: ^0.5.9
         version: 0.5.9(file-loader@1.1.11(webpack@3.12.0))
       vue-loader:
-        specifier: ^13.3.0
+        specifier: ^13.7.3
         version: 13.7.3(babel-core@6.26.3)(css-loader@0.28.11)(handlebars@4.7.8)(lodash@4.17.23)(vue-template-compiler@2.7.16)(webpack@3.12.0)
       vue-style-loader:
-        specifier: ^3.0.1
+        specifier: ^3.1.2
         version: 3.1.2
       vue-template-compiler:
-        specifier: ^2.5.2
+        specifier: ^2.7.16
         version: 2.7.16
       webpack:
-        specifier: ^3.6.0
+        specifier: ^3.12.0
         version: 3.12.0
       webpack-bundle-analyzer:
-        specifier: ^3.3.2
+        specifier: ^3.9.0
         version: 3.9.0
       webpack-dev-server:
-        specifier: ^3.1.11
+        specifier: ^3.11.3
         version: 3.11.3(webpack@3.12.0)
       webpack-merge:
-        specifier: ^4.1.0
+        specifier: ^4.2.2
         version: 4.2.2
 
 packages:
@@ -995,11 +995,11 @@ packages:
   boolbase@1.0.0:
     resolution: {integrity: sha512-JZOSA7Mo9sNGB8+UjSgzdLtokWAky1zbztM3WRLCbZ70/3cTANmQmOdR7y2g+J0e2WXywy1yS468tY+IruqEww==}
 
-  brace-expansion@1.1.12:
-    resolution: {integrity: sha512-9T9UjW3r0UW5c1Q7GTwllptXwhvYmEzFhzMfZ9H7FQWt+uZePjZPjBP/W1ZEyZ1twGWom5/56TF4lPcqjnDHcg==}
+  brace-expansion@1.1.14:
+    resolution: {integrity: sha512-MWPGfDxnyzKU7rNOW9SP/c50vi3xrmrua/+6hfPbCS2ABNWfx24vPidzvC7krjU/RTo235sV776ymlsMtGKj8g==}
 
-  brace-expansion@5.0.4:
-    resolution: {integrity: sha512-h+DEnpVvxmfVefa4jFbCf5HdH5YMDXRsmKflpf1pILZWRFlTbJpxeU55nJl4Smt5HQaGzg1o6RHFPJaOqnmBDg==}
+  brace-expansion@5.0.6:
+    resolution: {integrity: sha512-kLpxurY4Z4r9sgMsyG0Z9uzsBlgiU/EFKhj/h91/8yHu0edo7XuixOIH3VcJ8kkxs6/jPzoI6U9Vj3WqbMQ94g==}
     engines: {node: 18 || 20 || >=22}
 
   braces@1.8.5:
@@ -5706,11 +5706,12 @@ packages:
 
   uuid@3.4.0:
     resolution: {integrity: sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A==}
-    deprecated: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+    deprecated: uuid@10 and below is no longer supported.  For ESM codebases, update to uuid@latest.  For CommonJS codebases, use uuid@11 (but be aware this version will likely be deprecated in 2028).
     hasBin: true
 
   uuid@8.3.2:
     resolution: {integrity: sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==}
+    deprecated: uuid@10 and below is no longer supported.  For ESM codebases, update to uuid@latest.  For CommonJS codebases, use uuid@11 (but be aware this version will likely be deprecated in 2028).
     hasBin: true
 
   validate-npm-package-license@3.0.4:
@@ -7126,12 +7127,12 @@ snapshots:
 
   boolbase@1.0.0: {}
 
-  brace-expansion@1.1.12:
+  brace-expansion@1.1.14:
     dependencies:
       balanced-match: 1.0.2
       concat-map: 0.0.1
 
-  brace-expansion@5.0.4:
+  brace-expansion@5.0.6:
     dependencies:
       balanced-match: 4.0.4
 
@@ -10421,15 +10422,15 @@ snapshots:
 
   minimatch@10.2.4:
     dependencies:
-      brace-expansion: 5.0.4
+      brace-expansion: 5.0.6
 
   minimatch@3.0.3:
     dependencies:
-      brace-expansion: 1.1.12
+      brace-expansion: 1.1.14
 
   minimatch@3.1.5:
     dependencies:
-      brace-expansion: 1.1.12
+      brace-expansion: 1.1.14
 
   minimist@0.0.10: {}
 
